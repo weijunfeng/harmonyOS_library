@@ -13,3 +13,9 @@
 [submodule "arkui-x/samples"]
 	path = arkui-x/samples
 	url = git@gitee.com:arkui-x/samples.git
+[submodule "arkui-x/docs"]
+	path = arkui-x/docs
+	url = git@gitee.com:arkui-x/docs.git
+[submodule "ohos/docs"]
+	path = ohos/docs
+	url = git@gitee.com:openharmony/docs.git
