@@ -19,3 +19,12 @@
 [submodule "ohos/docs"]
 	path = ohos/docs
 	url = git@gitee.com:openharmony/docs.git
+[submodule "arkui-x/arkui-for-android"]
+	path = arkui-x/arkui-for-android
+	url = git@gitee.com:arkui-x/arkui_for_android.git
+[submodule "arkui-x/arkui-for-ios"]
+	path = arkui-x/arkui-for-ios
+	url = git@gitee.com:arkui-x/arkui_for_ios.git
+[submodule "arkui-x/app_framework"]
+	path = arkui-x/app_framework
+	url = git@gitee.com:arkui-x/app_framework.git
