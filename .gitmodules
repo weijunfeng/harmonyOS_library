@@ -7,3 +7,6 @@
 [submodule "bennyhuo/Ktorfit"]
 	path = bennyhuo/Ktorfit
 	url = https://github.com/kotlin-for-ohos/Ktorfit.git
+[submodule "ohos/applications-app-samples"]
+	path = ohos/applications-app-samples
+	url = git@gitee.com:openharmony/applications_app_samples.git
