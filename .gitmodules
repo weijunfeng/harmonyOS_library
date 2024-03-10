@@ -1,0 +1,9 @@
+[submodule "bennyhuo/kotlin-ohos-sample"]
+	path = bennyhuo/kotlin-ohos-sample
+	url = https://github.com/kotlin-for-ohos/kotlin-ohos-sample.git
+[submodule "bennyhuo/ktor"]
+	path = bennyhuo/ktor
+	url = https://github.com/kotlin-for-ohos/ktor.git
+[submodule "bennyhuo/Ktorfit"]
+	path = bennyhuo/Ktorfit
+	url = https://github.com/kotlin-for-ohos/Ktorfit.git
